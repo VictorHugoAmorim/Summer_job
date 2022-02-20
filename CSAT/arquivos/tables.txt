@@ -1,0 +1,7 @@
+customer.olx_buyer_content_discovery
+customer.olx_buyer_negotiation
+customer.olx_buyer_transaction
+customer.olx_seller_adinsertion
+customer.olx_seller_negotiation
+customer.olx_seller_transaction
+customer.olx_seller_pro_gestao
